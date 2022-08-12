@@ -1,0 +1,90 @@
+.zh-tone-1{
+  color: rgb(153, 204, 255);
+  -webkit-text-stroke: 0.4px white;
+
+}
+
+.nightMode .zh-tone-1{
+  color: rgb(153, 204, 255);
+  -webkit-text-stroke: 0.4px white;
+
+}
+
+.zh-tone-2{
+  color: rgb(0, 255, 0);
+  -webkit-text-stroke: initial;
+
+}
+
+.nightMode .zh-tone-2{
+  color: rgb(0, 255, 0);
+  -webkit-text-stroke: initial;
+
+}
+
+.zh-tone-3{
+  color: rgb(255, 197, 0);
+  -webkit-text-stroke: 0.4px white;
+
+}
+
+.nightMode .zh-tone-3{
+  color: rgb(255, 197, 0);
+  -webkit-text-stroke: 0.4px white;
+
+}
+
+.zh-tone-4{
+  color: rgb(255, 85, 85);
+  -webkit-text-stroke: initial;
+
+}
+
+.nightMode .zh-tone-4{
+  color: rgb(255, 85, 85);
+  -webkit-text-stroke: initial;
+
+}
+
+.zh-tone-5{
+  color: rgb(125, 125, 125);
+  -webkit-text-stroke: initial;
+
+}
+
+.nightMode .zh-tone-5{
+  color: rgb(125, 125, 125);
+  -webkit-text-stroke: initial;
+
+}
+
+.zh-font{
+  font-family: "PingFang SC";
+
+}
+
+.nightMode .zh-font{
+  font-family: "PingFang SC";
+
+}
+
+.jp-font{
+  font-family: "Hiragino Maru Gothic ProN";
+
+}
+
+.nightMode .jp-font{
+  font-family: "Hiragino Maru Gothic ProN";
+
+}
+
+.ms-font{
+  font-family: "unifont";
+
+}
+
+.nightMode .ms-font{
+  font-family: "unifont";
+
+}
+
